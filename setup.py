@@ -20,8 +20,7 @@ setup(name='SlickWiki',
       ],
       packages=['slickwiki'],
       scripts=['slick'],
-      requires=['cherrypy',
-                'markdown',
-                'pystache',
-                'json']
+      install_requires=['cherrypy',
+                        'markdown',
+                        'pystache']
 )
