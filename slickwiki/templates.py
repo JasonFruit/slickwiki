@@ -75,7 +75,7 @@ I hope you enjoy SlickWiki!
 default_config = r"""{
     "initPageText": "",
     "portNumber": 8080,
-    "editorCommand": "emacsclient -a \"emacs\" \"{{path}}\""
+    "editorCommand": "x-terminal-emulator -e sensible-editor \"{{path}}\""
 }
 """
 
