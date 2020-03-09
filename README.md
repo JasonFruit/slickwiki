@@ -8,6 +8,11 @@ like.
 Quick start
 ----------------------------------------------------------------------
 
+### Installation
+
+To install SlickWiki, do from a terminal as root: `pip3 install
+slickwiki`.
+
 ### Creating a wiki
 
 To initialize a new wiki, create a directory (say, /home/guest/wiki).
