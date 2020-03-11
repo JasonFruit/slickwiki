@@ -72,6 +72,18 @@ There really is no natural way to reference an image in plain text;
 you may wish to use plain HTML instead:
 
     <img alt="A happy face" src="/static/happy.jpg" />
+	
+(What I Guess Would Be) FAQs
+----------------------------------------------------------------------
+
+ - **Can I run this on a server?** You could, with a judicious change
+   to the templates and the editor command &mdash; but it would be a
+   bad idea.
+ - **Is there any authentication available?** No.  It's a personal
+   wiki, meant for the use of the person who edits it.  Why protect
+   you from yourself?
+ - **Can I delete pages?** Not at this time, but you can remove all
+   links referencing them, and that's about as good.
 
 License
 ----------------------------------------------------------------------
